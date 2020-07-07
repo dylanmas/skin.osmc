@@ -1,15 +1,21 @@
 # skin.osmc
 
-The default skin for OSMC.
+DylanMas' OSMC Skin.
 
-For further information, check out the wiki here: https://osmc.tv/wiki/general/the-osmc-skin/
+The default skin for OSMC, but with bigger text!
+It's intended to be small-screen friendly. All text in the skin is big enough to be readable.
+This was tested on a 2.2" ILI9341 320x240 TFT LCD.
 
-## This skin is shipped with official releases of OSMC (https://osmc.tv/download/).
-
-Install from GitHub on other platforms - check for the newest release here: https://github.com/osmc/skin.osmc/releases
-
-Original skin: Andy Morton (https://github.com/BobCratchett)
-
-Original design: Simon Brunton (https://simonbrunton.com/)
-
-Skinner: Julian Michel (https://github.com/Ch1llb0/skin.osmc)
+INFO ABOUT THE ORIGINAL SKIN (NON-MODIFIED)______________________________________________________________________________,
+                                                                                                                         |
+For further information about the original skin, check out OSMC's wiki here: https://osmc.tv/wiki/general/the-osmc-skin/ |
+                                                                                                                         |
+## The original skin is shipped with official releases of OSMC (https://osmc.tv/download/).                              |
+                                                                                                                         |
+Original skin: Andy Morton (https://github.com/BobCratchett)                                                             |
+                                                                                                                         |
+Original design: Simon Brunton (https://simonbrunton.com/)                                                               |
+                                                                                                                         |
+Original Skinner: Julian Michel (https://github.com/Ch1llb0/skin.osmc)                                                   |
+                                                                                                                         |
+========================================================================================================================='
